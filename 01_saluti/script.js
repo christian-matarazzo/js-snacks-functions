@@ -19,6 +19,6 @@ console.log(helloMessage);
 
 // Arrow function 
 
-const hello_user = user_name => `Ciao ${user_name}`
+/* const hello_user = user_name => `Ciao ${user_name}`
 
-console.log(hello_user(userName));
+    console.log(hello_user(userName)); */
